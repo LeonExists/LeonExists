@@ -4,7 +4,7 @@
 # hey, I'm Leon 👋
 
 ### 18y/o dev who somehow learned to code before asking AI to do it.
-### Started at 12 · 18 now · still going, the old-fashioned way.
+### Started at 12 · 18 now · Cause I'm awesome 🤙.
 
 </div>
 

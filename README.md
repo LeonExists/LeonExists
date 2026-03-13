@@ -14,13 +14,6 @@
 
 ---
 
-### 🔭 what I'm up to
-- Currently building **[your project name](link)**
-- Exploring **[something you're learning right now]**
-- Ask me about anything on the list below — genuinely love talking code
-
----
-
 ### 🛠️ languages & tools
 
 <!-- Languages -->
@@ -74,15 +67,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
-
----
-
-### 📊 stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="150"/>
-</div>
 
 ---
 
